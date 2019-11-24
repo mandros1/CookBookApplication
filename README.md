@@ -1,10 +1,18 @@
 # CookBookApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
+This project is a mid-complexity project in order to grasp the concept
+of AngularJS and make something potentially useful. This is going to be a front-end
+UI application for CookBook application which will be expanded in the future by
+NodeJS RestfulAPI and similar adaptations
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Deployment
+
+To be defined
 
 ## Code scaffolding
 
